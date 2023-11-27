@@ -411,8 +411,7 @@ jobs:
       - name: Create AppFlowy-Cloud env
         working-directory: frontend/appflowy_flutter
         run: |
-          ls -la
-          cp .env.dev .env 
+          cp dev.env .env 
           sed -i 's|APPFLOWY_CLOUD_URL=.*|APPFLOWY_CLOUD_URL=http://localhost|' .env
 
       - name: Run flutter pub get
