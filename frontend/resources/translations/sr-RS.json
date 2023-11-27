@@ -4,5 +4,17 @@
   "subscribeNewsletterText": "Пријавите се на билтен",
   "letsGoButtonText": "Брз почетак",
   "title": "Наслов",
-  "youCanAlso": "Можете такође"
+  "youCanAlso": "Можете такође",
+  "and": "и",
+  "blockActions": {
+    "addAboveTooltip": "да д",
+    "openMenuTooltip": "Кликните "
+  },
+  "signUp": {
+    "alreadyHaveAnAccount": "Већ имате налог?"
+  },
+  "shareAction": {
+    "buttonText": "Поделтите",
+    "copyLink": "Копирај линк"
+  }
 }
