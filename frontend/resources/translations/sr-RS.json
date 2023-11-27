@@ -1,6 +1,5 @@
 {
-  "appName": "APP",
-  "welcomeText": " @:appName",
+  "welcomeText": " Д@:appName",
   "githubStarText": "Стави звездицу  на ГитХуб-у",
   "subscribeNewsletterText": "Пријавите се на билтен",
   "letsGoButtonText": "Брз почетак",
